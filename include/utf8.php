@@ -1,3 +1,2 @@
 <?php
-echo'<meta charset="utf-8">';
-?>
+echo '<meta charset="utf-8">';
